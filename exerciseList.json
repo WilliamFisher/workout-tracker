@@ -1,0 +1,50 @@
+[
+  {
+    "exerciseName": "Bench Press",
+    "target": "Chest"
+  },
+  {
+    "exerciseName": "Bench Press (Dumbbell)",
+    "target": "Chest"
+  },
+  {
+    "exerciseName": "Triceps Extension",
+    "target": "Arms"
+  },
+  {
+    "exerciseName": "Triceps Pushdown",
+    "target": "Arms"
+  },
+  {
+    "exerciseName": "Seated Row",
+    "target": "Back"
+  },
+  {
+    "exerciseName": "Barbell Press",
+    "target": "Chest"
+  },
+  {
+    "exerciseName": "Chest Fly",
+    "target": "Chest"
+  },
+  {
+    "exerciseName": "Concentration Curl",
+    "target": "Arms"
+  },
+  {
+    "exerciseName": "Preacher Curl",
+    "target": "Arms"
+  },
+  {
+    "exerciseName": "Bicep Curl",
+    "target": "Arms"
+  },
+  {
+    "exerciseName": "Deadlift",
+    "target": "Legs"
+  },
+  {
+    "exerciseName": "Lat Pulldown (Cable)",
+    "target": "Back"
+  }
+]
