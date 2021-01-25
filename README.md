@@ -19,6 +19,5 @@ Workout Tracker is a cross-platform application created with React Native and th
 
 ## Screenshots
 
-![App Home Screen](/screenshots/HomeScreen.png "App Home Screen")
-![App Current Workout](/screenshots/CurrentWorkout.png "Workout In-Progress")
-![App New Workout Screen](/screenshots/NewWorkouts.png "Create New Routine")
+<img src="/screenshots/HomeScreen.png" width="200"> <img src="/screenshots/CurrentWorkout.png" width="200"> <img src="/screenshots/NewWorkouts.png" width="200">
+
